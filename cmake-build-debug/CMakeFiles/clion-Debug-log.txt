@@ -1,0 +1,4 @@
+/home/student/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -S /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt -B /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug

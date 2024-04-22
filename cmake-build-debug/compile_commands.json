@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/program",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/program/include -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Program.dir/src/main.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/program/src/main.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/program/src/main.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/test/master.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/test/master.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/test/master.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Student.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Student.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Student.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Subscription.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Subscription.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Subscription.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Gold.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Gold.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Gold.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Silver.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Silver.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Silver.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Bronze.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Bronze.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Bronze.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/repo/StudentRepo.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/repo/StudentRepo.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/repo/StudentRepo.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/manager/StudentManager.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/manager/StudentManager.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/manager/StudentManager.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Order.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Order.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Order.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/repo/OrderRepo.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/repo/OrderRepo.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/repo/OrderRepo.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Tutor.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Tutor.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Tutor.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Calendar.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Calendar.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Calendar.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/repo/TutorRepo.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/repo/TutorRepo.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/repo/TutorRepo.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/manager/TutorManager.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/manager/TutorManager.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/manager/TutorManager.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Repository.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Repository.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/model/Repository.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/Library.dir/src/manager/OrderManager.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/manager/OrderManager.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/src/manager/OrderManager.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/include -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/master.cpp.o -c /home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/test/master.cpp",
+  "file": "/home/student/CLionProjects/repo/mkwa_cz_1400_08/Projekt/library/test/master.cpp"
+}
+]
